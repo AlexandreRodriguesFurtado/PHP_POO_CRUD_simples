@@ -16,7 +16,7 @@
     - [Diagrama](#🚧-diagrama-der-🚧)
     - [Scripts de criação](#🚧-scripts-de-criação-🚧)
     - [Script de inserção](#🚧-script-de-inserção-🚧)
-- [Agradecimentos](#👍agradecimentos)
+- [Agradecimentos](#-agradecimentos)
 ---
 
 <br>
