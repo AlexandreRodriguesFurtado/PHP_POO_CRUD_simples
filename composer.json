@@ -1,0 +1,8 @@
+{
+   "nome":"alexandre/projetofinalphp",
+   "autoload":{
+     "psr-4":{
+        "App\\":"app/"
+   }
+  }
+}
