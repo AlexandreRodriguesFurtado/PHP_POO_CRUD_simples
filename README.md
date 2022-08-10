@@ -182,4 +182,3 @@ desenvolvido por ✌💪 *Alexandre Rodrigues Furtado.*
 ### Foram as fontes de pesquisa, aprendizado e inspiração para desenvolver o projeto.
 
 
-# PHP_POO_CRUD_simples
